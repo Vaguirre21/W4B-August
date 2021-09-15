@@ -1,0 +1,26 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  .header{
+      padding: 60px;
+      text-align: justify;
+      background-color: #245ce7;
+      color: #ffffff;
+      font-size: 35px;
+      font-family:'Varela Round', sans-serif;;
+      font-display: block;
+}
+body{ 
+    background-color: #fde99a;
+}
+.Nav{
+      font-size: 15pt;
+      font-family: 'varela round', sans-serif;
+  }
+  .h1{
+      font-size: 25pt;
+      font-family: 'varela round', sans-serif;
+  }

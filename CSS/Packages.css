@@ -1,0 +1,38 @@
+  .header{
+      padding: 60px;
+      text-align: justify;
+      background-color: #245ce7;
+      color: #ffffff;
+      font-size: 35px;
+      font-family:'Varela Round', sans-serif;;
+      font-display: block;
+}
+body{ 
+    background-color: #fde99a;
+}
+.Nav{
+      font-size: 15pt;
+      font-family: 'varela round', sans-serif;
+  }
+ .section {
+    display: block;
+    font-style: oblique;
+    background-color: #5CE1E6;
+  }
+ .aside {
+    display: block;
+    background-color: #f79fc1;
+  }
+  .h2{
+      display: block;
+      font-family: 'varela round', sans-serif;
+      color: black;
+  }
+  .inspo{
+     display: block;
+     font-style: normal;
+     background-color: #5CE1E6;
+     font-family:'varela round', sans-serif;
+     font-size: 25pt;
+     text-align: center;
+  }
